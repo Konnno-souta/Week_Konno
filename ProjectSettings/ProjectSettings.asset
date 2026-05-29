@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 470a647b324122841bab27188a7cbe0f
+  productGUID: 42a0a0851d3b9a44c8e96a963482c074
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Friday1.2
+  productName: Week_2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -846,14 +846,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Friday1.2
+  metroPackageName: Week_2
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Friday1.2
+  metroApplicationDescription: Week_2
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -924,10 +924,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 30e48ed3-6501-4b45-acc4-2c1bfe53bbb9
+  cloudProjectId: 0444732e-3786-4d60-8da5-3ff995e30c2f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Friday1.2
+  projectName: Week_2
   organizationId: souta0426
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

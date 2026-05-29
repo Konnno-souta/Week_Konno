@@ -4,6 +4,9 @@
 TagManager:
   serializedVersion: 3
   tags:
+  - Ground
+  - Bullet
+  - FirePoint
   - Enemy
   layers:
   - Default
